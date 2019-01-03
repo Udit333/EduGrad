@@ -1,0 +1,15 @@
+Text File containing List of files created or updated for Scrapy Project
+
+Project Folder Name: Scraping
+
+Files created or update: 
+ items.py
+ pipelines.py
+ settings.py
+ spider created: Details.py
+
+MySql Files: naukri_data.sql
+
+CSV File for storing scraped data is stored : naukri_dataanalytics.csv
+
+A Python file containing code for part 5 of the Project: Q5program_CSVDataToMySql.py
